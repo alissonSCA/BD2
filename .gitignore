@@ -1,3 +1,6 @@
+#Repositório com datasets de machine learning em SQLite para aprendizado de ciência de dados.
+SQLite_databases_for_learning_data_science/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
